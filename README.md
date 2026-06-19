@@ -4,10 +4,15 @@
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Gradio-v4-FF9D00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
   <img src="https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <a href="https://huggingface.co/spaces/Shreyashcoder40/my-study-assistant" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%A5%97%20Hugging%20Face-Spaces-FFD21E?style=for-the-badge" alt="Hugging Face Space" />
+  </a>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 </p>
 
 An interactive, AI-powered study companion that helps you learn complex concepts using tailored explanation styles. Powered by **Gemini 2.5 Flash** and built with **Gradio**, this application lets you toggle between different teaching personalities to optimize your learning experience.
+
+🚀 **Live Space**: [Try the live application on Hugging Face Spaces](https://huggingface.co/spaces/Shreyashcoder40/my-study-assistant)
 
 ---
 
